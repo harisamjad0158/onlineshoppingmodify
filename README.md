@@ -78,7 +78,8 @@ All this while ensuring:
 
 ### Action
 
-> I did this...
+> I did this...run this command
+docker-compose up --build
 
 - Understood the [ROADMAP.md](ROADMAP.md) and [CONTRIBUTING.md](CONTRIBUTING.md) for build up the project.
 - Gathering the resources needed to fulfill the [`Task`](#task).
